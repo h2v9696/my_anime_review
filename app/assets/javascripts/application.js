@@ -16,3 +16,5 @@
 //= require_tree .
 //= require bootstrap
 //= require ckeditor/init
+//= require jquery.raty
+//= require ratyrate
